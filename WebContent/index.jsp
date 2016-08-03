@@ -28,7 +28,7 @@
 		<tr>
 			<td align=right width="110">Last name: </td>
 			<td width="110"><%=vo.getFirstName() %></td>
-		</tr>
+		</tr> 
 		<tr>
 			<td align=right>Email </td>
 			<td><%=vo.getEmail() %> </td>
